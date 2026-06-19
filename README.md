@@ -1,4 +1,4 @@
-import { useState, useEffect, useRef } from "react";
+Kiimport { useState, useEffect, useRef } from "react";
 
 /* ─── LOGO ── */
 function Logo({ size = 28 }) {
@@ -575,3 +575,5 @@ const C={
   goldSmBtn:{flexShrink:0,padding:"8px 14px",background:"linear-gradient(135deg,#FFD700,#FB923C)",border:"none",borderRadius:10,color:"#000",fontSize:11,fontWeight:800,cursor:"pointer"},
   purpleBtn:{flex:1,padding:"9px",borderRadius:10,background:"rgba(167,139,250,0.15)",border:"1px solid rgba(167,139,250,0.3)",color:"#A78BFA",fontSize:12,fontWeight:700,cursor:"pointer"},
 };
+
+npm i @vercel/speed-insights
